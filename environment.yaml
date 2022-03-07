@@ -78,6 +78,7 @@ dependencies:
   - zeromq=4.3.4=h23ab428_0
   - zipp=3.7.0=pyhd3eb1b0_0
   - zlib=1.2.11=h4dc903c_4
+  - pip
   - pip:
     - anndata==0.7.8
     - cached-property==1.5.2
